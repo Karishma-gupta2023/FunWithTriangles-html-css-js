@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    margin-left: 34px;
+    margin-right: 34px;
+}
+
+.nav-container{
+    display:flex;
+    background-color:blue;
+    gap:1rem;
+    justify-content: right;
+    padding:1rem;
+    padding:1rem;
+    font-size: larger;
+    font-weight: bold;
+   
+    
+}
+
+.nav-container a{
+    text-decoration: none;
+    color:white;
+
+    border-radius: 1rem;
+}
+
+.main-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
