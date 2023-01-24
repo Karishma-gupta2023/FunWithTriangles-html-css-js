@@ -13,11 +13,16 @@ body{
     background-color:blue;
     gap:1rem;
     justify-content: right;
-    padding:1rem;
-    padding:1rem;
+    padding:3rem;
+   
     font-size: larger;
     font-weight: bold;
    
+    
+}
+
+h1{
+    padding:1rem;
     
 }
 
@@ -35,3 +40,14 @@ body{
     align-items: center;
     
 }
+
+button{
+    padding: 1rem;
+    background-color: blue;
+    color: aliceblue;
+    border-color: azure;
+}
+
+.ow{
+    display: block;
+   background-color: rgb(232, 232, 225);
