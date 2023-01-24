@@ -29,6 +29,7 @@ h1{
 .nav-container a{
     text-decoration: none;
     color:white;
+    margin:1rem;
 
     border-radius: 1rem;
 }
@@ -50,4 +51,14 @@ button{
 
 .ow{
     display: block;
-   background-color: rgb(232, 232, 225);
+   background-color: rgb(232, 232, 225);}
+
+fieldset{
+    margin:1rem;
+}
+
+#outputDiv, #output{
+    font-size: large;
+    color:blue;
+    font-weight: bold;
+}
